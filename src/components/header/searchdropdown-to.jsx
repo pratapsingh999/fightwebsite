@@ -102,5 +102,3 @@ export function SearchdropdownTo({ DestinationCity }) {
     </>
   );
 }
-
-// export default SearchdropdownTo;

@@ -163,17 +163,6 @@
     display: flex;
   }
 
-  /* .pagination {
-    display: inline-block;
-  }
-  
-  .pagination p {
-    color: black;
-    float: left;
-    padding: 8px 16px;
-    text-decoration: none;
-  } */
-
   .pagination {
     display: inline-block;
     display: flex;
@@ -201,18 +190,6 @@
     background-color: #007bff; /* Change to the desired active color */
     color: #fff;
   }
-  
-  /* .pagination p.active {
-    background-color: #4CAF50;
-    color: white;
-    border-radius: 5px;
-  }
-  
-  .pagination p:hover:not(.active) {
-    background-color: #ddd;
-    border-radius: 5px;
-  } */
-
 
   .flight-ticket-card {
     border: 1px solid #ccc;
@@ -253,7 +230,6 @@
 padding: 10px;
 border-radius: 5%;
 text-align: center;
-
   }
 
   .select-button:hover {
